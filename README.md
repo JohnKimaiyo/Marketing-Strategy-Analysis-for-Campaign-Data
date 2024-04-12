@@ -12,3 +12,6 @@ A market analysis helps you create an effective marketing strategy that aligns w
 ## 5 Final Recommendation (Optimial Sales)
 
 ![alt text](image.png)
+
+
+Further Marketing Data Analysis  check out   https://johnkimaiyo.vercel.app/
